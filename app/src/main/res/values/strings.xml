@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CourseApplication</string>
+    <string name="title">Titolo</string>
+    <string name="dataCrea">Data Creazione</string>
+    <string name="dataMod">Data ult. mod.</string>
+    <string name="description">Descrizione</string>
+    <string name="dataUltimatum">Data scadenza</string>
 </resources>
